@@ -240,15 +240,12 @@
         }
     }
     .promo{
-        background: url('../img/main_bg.jpg') no-repeat 57%/cover;
+        background: url('../../img/main_bg.jpg') no-repeat 57%/cover;
         &__btns{
             margin-top: 30px;
         }
     }
     .about{
-        &__subtitle{
-            
-        }
         &__wrapper{
             grid-template: 340px auto auto / 1fr;
         }
